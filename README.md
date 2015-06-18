@@ -1,3 +1,9 @@
+##Not in development.  No longer working.
+
+I highly recommend trying out this project which has kept up with Coursera's changes:
+https://github.com/dgorissen/coursera-dl
+
+
 ##Download Coursera materials.
 
 ###Dependencies:
